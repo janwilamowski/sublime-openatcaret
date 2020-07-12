@@ -1,0 +1,3 @@
+[
+  { "caption": "Open file under caret", "command": "open_at_caret" },
+]

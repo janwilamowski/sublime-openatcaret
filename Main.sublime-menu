@@ -1,0 +1,13 @@
+[
+{
+    "id": "goto",
+    "children":
+    [
+    {
+        "id" : "openAtCaretCmd",
+        "caption": "Goto file under caret",
+        "command" : "open_at_caret"
+    }
+    ]
+}
+]
